@@ -19,6 +19,9 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
+body , html{
+overflow-x: hidden;
+}
 nav img{
 width: 130px;
 

@@ -19,11 +19,6 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
-   min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #efefef;
 body , html{
 overflow-x: hidden;
 }
@@ -192,7 +187,7 @@ box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
     
 }
 
-/*<!--------- campus --------->*/
+/<!--------- campus --------->/
 .campus{
 
     width: 80%;
@@ -246,7 +241,7 @@ width: 300px;
 
 }
 
-/*----------call-------------*/
+/----------call-------------/
 .cta{
     margin: 100px auto;
     width: 80%;
@@ -268,7 +263,7 @@ padding: 0;
 
     }
 
-    /*----------footer-------------*/
+    /----------footer-------------/
 .footer{
 width: 100%;
 text-align: center;
@@ -303,9 +298,31 @@ padding: 0;
 
 }
 
+    
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* nice image css */
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #efefef;
+}
 .slide-container{
 max-width: 1120px;
 width: 100%;
@@ -319,7 +336,8 @@ margin: 0 40px;
 
 }
 .card{
-     width: 320px;
+    
+  
     border-radius: 25px;
     background-color: #fff;
 }
@@ -401,6 +419,16 @@ transition: 0.3s ease;
 .button:hover{
     background: #265df2;
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -619,7 +647,7 @@ box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
     
 }
 
-/*<!--------- campus --------->*/
+/<!--------- campus --------->/
 .campus{
 
     width: 80%;
@@ -673,7 +701,7 @@ width: 300px;
 
 }
 
-/*----------call-------------*/
+/----------call-------------/
 .cta{
     margin: 100px auto;
     width: 80%;
@@ -695,7 +723,7 @@ padding: 0;
 
     }
 
-    /*----------footer-------------*/
+    /----------footer-------------/
 .footer{
 width: 100%;
 text-align: center;

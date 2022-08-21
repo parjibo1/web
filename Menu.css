@@ -187,59 +187,7 @@ box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
     
 }
 
-/<!--------- campus --------->/
-.campus{
 
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 50px;
-}
-.myfriends{
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 50px;
-
-}
-.frides{
-    background-color: white;
-    color: gray;
-    padding: 50px;
-    display: flex;
-    flex-direction: row; 
-}
-.frides figure{
-    margin: auto;
-    text-align: center;
-        width: 200px;
-        
-}
-.frides figure img{
-    border-radius: 10px;
-    box-shadow: black 10px 10px 10px;
-width: 300px;
-}
-.row{
-    background-color: white;
-    color: gray;
-    padding: 50px;
-    display: flex;
-    flex-direction: row;
-}
-.row figure{
-margin: auto;
-text-align: center;
-    width: 200px;
-    
-}
-.row figure img{
-    border-radius: 10px;
-    box-shadow: black 10px 10px 10px;
-width: 300px;
-
-
-}
 
 /----------call-------------/
 .cta{
@@ -508,59 +456,7 @@ box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
     
 }
 
-/<!--------- campus --------->/
-.campus{
 
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 50px;
-}
-.myfriends{
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 50px;
-
-}
-.frides{
-    background-color: white;
-    color: gray;
-    padding: 50px;
-    display: flex;
-    flex-direction: row; 
-}
-.frides figure{
-    margin: auto;
-    text-align: center;
-        width: 200px;
-        
-}
-.frides figure img{
-    border-radius: 10px;
-    box-shadow: black 10px 10px 10px;
-width: 300px;
-}
-.row{
-    background-color: white;
-    color: gray;
-    padding: 50px;
-    display: flex;
-    flex-direction: row;
-}
-.row figure{
-margin: auto;
-text-align: center;
-    width: 200px;
-    
-}
-.row figure img{
-    border-radius: 10px;
-    box-shadow: black 10px 10px 10px;
-width: 300px;
-
-
-}
 
 /----------call-------------/
 .cta{
